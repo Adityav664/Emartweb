@@ -21,7 +21,7 @@ const UserSchema = new Schema({
     },
 
     likes: {
-        type: Number
+        type: Number,
         default: 0
     },
 

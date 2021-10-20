@@ -53,7 +53,7 @@ router.get('/user/posts', (req,res) => {
 
     console.log('request recieved - /user/posts')
     
-    const user = User.findbyId(req.id, (error){
+    const user = User.findbyId(req.id, (error) => {
         if(error){
             console.log("Not Found")
         }

@@ -1,5 +1,3 @@
-<link href="https://fonts.googleapis.com/css?family=Raleway:400,500" rel="stylesheet" type="text/css">;
-
 body {
   background-color: hsl(210, 45%, 60%);
   display: flex;
@@ -14,7 +12,7 @@ header {
   display: grid;
   grid-template-columns: 300px 1fr;
   z-index: 1;
-  top: 0;
+  top: 1;
   left: 0;
   padding-top: 5px;
 }
@@ -23,7 +21,7 @@ main {
   display: flex;
   flex-direction: column;
   margin: auto;
-  max-width: 750px;
+  max-width: 700px;
   position: relative;
   top: 40px;
   z-index: 0;

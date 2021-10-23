@@ -8,7 +8,7 @@ import Home from './components/home.js'
 
 
 class App extends Component {
-/*   constructor(){
+   constructor(){
     super();
 
     this.state={isLogin:true};
@@ -29,7 +29,7 @@ class App extends Component {
       });
     }
     console.log(this.state.isLogin);
-  } */
+  } 
 
 
   render(){

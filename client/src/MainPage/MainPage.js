@@ -4,7 +4,7 @@ export default function MainPage() {
     return (
         <>
         <header id="header">
-        <img src="https://s3.amazonaws.com/freecodecamp/original_trombones.png" alt="original trombones logo" id="header-img">
+        <img src="https://s3.amazonaws.com/freecodecamp/original_trombones.png" alt="original trombones logo" id="header-img" />
         <nav id="nav-bar">
           <a href="#features" class="nav-link">Features</a>
           <a href="#video" class="nav-link">How it works</a>
@@ -17,27 +17,27 @@ export default function MainPage() {
           <h2>Handcrafted, home-made masterpieces</h2>
           <form id="form" action="https://www.freecodecamp.com/email-submit">
             <input type="email" name="email" placeholder="enter your email" id="email" required></input>
-            <input type="submit" id="submit" value="Get Started" class="btn">
+            <input type="submit" id="submit" value="Get Started" class="btn" />
           </form>
         </article>
       
         <article id="features">
           <section class="feature-section">
-            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img">
+            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img" />
             <div>
               <h2>Premium Materials</h2>
               <p>Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p>
             </div>
           </section>
           <section class="feature-section">
-            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img">
+            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img" />
             <div>
               <h2>Fast Shipping</h2>
               <p>We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</p>
             </div>
           </section>
           <section class="feature-section">
-            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img">
+            <img src="https://www.qmsuk.com/wp-content/themes/qms2016/assets/images/icons/common/tick.png" class="feature-img" />
             <div>
               <h2>Quality Assurance</h2>
               <p>For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument.</p>

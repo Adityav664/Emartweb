@@ -147,11 +147,11 @@ button[class*=btn] {
 }
 
 .minus-btn img {
-    margin-bottom: 3px;
+    margin-bottom: 2px;
 }
 
 .plus-btn img {
-    margin-top: 2px;
+    margin-top: 1px;
 }
 
 button:focus,
